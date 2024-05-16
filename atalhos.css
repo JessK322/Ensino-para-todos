@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+body{
+    background-image: url(img/atalhos.jpg);
+    background-size: cover;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+.inicio{
+    text-align: center;
+    margin: 20px;
+}
+.one{
+    text-align: center;
+    margin: 30px;
+}
+.two{
+    text-align: center;
+    margin: 30px;
+}
+.three{
+    text-align: center;
+    margin: 30px;
+}
+.four{
+    text-align: center;
+    margin: 30px;
+}
+.five{
+    text-align: center;
+    margin: 30px;
+}
+.six{
+    text-align: center;
+    margin: 30px;
+}
+.seven{
+    text-align: center;
+    margin: 30px;
+}
+.eight{
+    text-align: center;
+    margin: 30px;
+}
+.nine{
+    text-align: center;
+    margin: 30px;
+}
+.ten{
+    text-align: center;
+    margin: 30px;
+}
+h4{
+    text-align: center;
+    margin: 50px;
+    color: yellow;
+}

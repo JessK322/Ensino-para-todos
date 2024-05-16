@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+Body {
+    background-image: url(img/wi-fi-network-connections-concept-background-with-flashing-blue-wi-fi-icons-connected-by-a-digital-plexus-network-this-internet-technology-background-is-full-hd-and-a-seamless-loop-video.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+a{
+    color: black;
+}
+header{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    margin: 100px;
+}
+h5{
+    text-align: center;
+    justify-content: center;
+    color: yellow;
+}
